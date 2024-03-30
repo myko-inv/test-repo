@@ -27,7 +27,7 @@
 | [BlackPanter](https://dojo.trading/atomic)                                    
 |                                               |                     |       
 |                                               |                     |       
-| [LightLink](https://galxe.com/lightlink)      | FFox MMsk 049-ununx | Pyth + Tia      
+| [LightLink](https://galxe.com/lightlink)      | FFox MMsk  | Pyth + Tia      
 | [LightLink](https://twitter.com/LightLinkChain/status/1754686450954863029) | twitter
 |                                               |                     |     
 | NIM                                           |                     | DYM    
