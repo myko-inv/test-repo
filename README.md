@@ -1,22 +1,20 @@
 # Daily 
 
-<details>
-
-  <summary> [Elys] </summary>
-
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
 | [Elys](https://testnet.elys.network/faucet)   | Keplr _Main_Acc-1   |       
   
-</details>
 
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
 [Parcl](app.parcl.com)      
 [Pulsara]
-[Yaka]
+[Yaka](https://app.yaka.finance) [faucet](https://atlantic-2.app.sei.io/faucet) | sei135al97q8zyrngr04erlh50pdka7qptljnj7hqu
 [kinetics kava]
 
+<details>
+
+  <summary> [Once] </summary>
 
 # Once
 | Project                                       | Wallet - Acc        | Notes
@@ -33,4 +31,4 @@
 | NIM                                           |                     | DYM    
 |                                               |                     |     
 
-
+</details>
