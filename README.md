@@ -2,6 +2,7 @@
 
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
+| [Bera](https://artio.faucet.berachain.com/)   | MMask 0x3e4bE83Fa2b076FA2Df91f04F9C870f30286FBF1
 | [Elys](https://testnet.elys.network/faucet)   | Keplr _Main_Acc-1   |       
   
 
