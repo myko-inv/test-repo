@@ -22,12 +22,20 @@
 [mande.network](https://app.mande.network/airdrop) |
 [initia](https://app.galxe.com/quest/8YRccdDmhmr7KYbHoUSdLC/GCtG6tzhjb) |
 
-|  [NebulaFI](https://nebulafi.xyz/faucet)      |            |               |
+<details>
+
+  <summary> [NebulaFI] </summary>
+
+[NebulaFI](https://nebulafi.xyz/faucet) | | |
 | :------------------------------------         |     :---   |          ---: |
 Network Name | NebulaFi 
-RPC URL | https://json-rpc.nebula.evm.ra.blumbus.noisnemyd.xyz/
+RPC URL | https://json-rpc.nebula.evm.ra.blumbus.noisnemyd.xyz |
 Chain ID | 1336831
 Symbol | nbl
+
+</details>
+
+
 
 <details>
 
