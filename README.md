@@ -26,14 +26,13 @@
 
   <summary> [NebulaFI] </summary>
 
-[NebulaFI](https://nebulafi.xyz/faucet) | | |
+[Faucet](https://nebulafi.xyz/faucet) | | |
 | :------------------------------------         |     :---   |          ---: |
 |Network Name | NebulaFi 
 |    RPC URL  | https://json-rpc.nebula.evm.ra.blumbus.noisnemyd.xyz |
-|New RPC URL  | https://json-rpc.nebula.evm.ra.blumbus.noisnemyd.xyz/?s=09; |
 |Chain ID     | 1336831 |
 |Symbol       | NBL     |
-|Explorer URL | bb.dym.fyi/r/dev-nebula |
+|Explorer URL | https://bb.dym.fyi/r/dev-nebula |
 |🔸 Адрес контракта | 0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd |
 |🔸 Так же само     | 0x9d023Bf48F9F8E92B9Ec2Da4E39cb7a2CfE13710 |
 
