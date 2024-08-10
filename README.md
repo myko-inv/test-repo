@@ -46,8 +46,8 @@
   <summary> [Once] </summary>
 
 # Once
-| Project                                       | Wallet - Acc        | Notes
-| :------------------------------------         |     :---            |          ---: |
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes
+| :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 |                                               |                     |       
 | [Pryzm.zone](https://airdrop.pryzm.zone/)                       
 |                                               |                     |       
@@ -58,9 +58,9 @@
 | [LightLink](https://twitter.com/LightLinkChain/status/1754686450954863029) | twitter
 |                                               |                     |     
 | NIM                                           |                     | DYM    
-|
-| [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) || [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
-|  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |     |       |       |
-                    |     
+|                                               |                     | 
+| [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) | [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
+|  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
+|     
 
 </details>
