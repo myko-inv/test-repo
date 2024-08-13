@@ -1,12 +1,23 @@
 [source](https://github.com/minv5725495/notes/blob/master/README.md)
 # Daily 
 
+<details>
+  <summary> Elys </summary>
+  
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes | 
+| :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
+| [Elys](https://testnet.elys.network/faucet)   | Keplr _Main_Acc-1   |       
+| [NFT-Tier1](https://www.stargaze.zone/l/stars19qz0n2s65zjgqnpgudgrh4x5xzhvfsgram2wx98rt35m9ynd8enqkn7ygg) | 
+| [NFT-Tier2](https://www.stargaze.zone/l/stars1m8d069j4zaws97mf3unp0cwrm9c0m75j93h8jjgq8ay2r3zng3usgmuztr) | 
+
+</details>
+
+
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
 | [Bera-2](https://artio.faucet.berachain.com/) | MMask 0x427E65Fff0F8041938E45680E22dF5b009011a99 | 
 | [ALT-Layer]                                   | MMask 0xb262CbA7ecE4487Df60315aA8653beC5a3D85e4C | 
 |||
-| [Elys](https://testnet.elys.network/faucet)   | Keplr _Main_Acc-1   |       
   
 
 | Project                                       | Wallet - Acc        | Notes |
